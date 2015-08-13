@@ -1,1 +1,2 @@
 add new file in branchB newB.txt
+changed in B
