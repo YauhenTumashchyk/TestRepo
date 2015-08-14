@@ -1,3 +1,6 @@
 add new file in branchB newB.txt
 changed in master
 again in master
+dsfsd
+sdf
+sdfsdf
